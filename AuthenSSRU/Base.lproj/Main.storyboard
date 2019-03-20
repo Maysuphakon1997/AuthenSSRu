@@ -136,7 +136,11 @@
                                 <color key="tintColor" red="0.0" green="0.56284224989999998" blue="0.31881666180000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <items>
                                     <navigationItem title="Register" id="IL2-dK-22v">
-                                        <barButtonItem key="leftBarButtonItem" title="Back" image="ArrowBack" id="A48-14-h7p"/>
+                                        <barButtonItem key="leftBarButtonItem" title="Back" image="ArrowBack" id="A48-14-h7p">
+                                            <connections>
+                                                <action selector="backButton:" destination="bzb-ec-Yzw" id="UBk-vh-huF"/>
+                                            </connections>
+                                        </barButtonItem>
                                     </navigationItem>
                                 </items>
                             </navigationBar>
@@ -144,6 +148,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="s7D-hP-gSo"/>
                     </view>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="show" identifier="BackMain" id="LiX-HE-iNt"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="AMi-cI-Npf" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
