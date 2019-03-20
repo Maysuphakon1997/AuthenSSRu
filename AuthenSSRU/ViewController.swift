@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     @IBAction func registerButton(_ sender: UIButton) {
         
             print("You Click Pegister")
-        
+            performSegue(withIdentifier: "GoRegister", sender: self)
     }
     
 }   // Main Class
