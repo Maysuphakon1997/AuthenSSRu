@@ -10,90 +10,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AuthenSSRU/RegisterViewController.swift"
-            timestampString = "574766457.7793241"
+            timestampString = "574830065.984953"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "10"
-            endingLineNumber = "10"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
             landmarkName = "unknown"
             landmarkType = "0">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AuthenSSRU.RegisterViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AuthenSSRU.RegisterViewController"
-                  moduleName = "AuthenSSRU"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/student23/Desktop/MyProject/AuthenSSRU/AuthenSSRU/RegisterViewController.swift"
-                  timestampString = "574766458.0544519"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "4">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AuthenSSRU.RegisterViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AuthenSSRU.RegisterViewController"
-                  moduleName = "AuthenSSRU"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/student23/Desktop/MyProject/AuthenSSRU/AuthenSSRU/RegisterViewController.swift"
-                  timestampString = "574766458.0572"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "236">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AuthenSSRU.RegisterViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AuthenSSRU.RegisterViewController&gt;"
-                  moduleName = "AuthenSSRU"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/student23/Desktop/MyProject/AuthenSSRU/AuthenSSRU/RegisterViewController.swift"
-                  timestampString = "574766458.069415"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "4">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AuthenSSRU.RegisterViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AuthenSSRU.RegisterViewController&gt;"
-                  moduleName = "AuthenSSRU"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/student23/Desktop/MyProject/AuthenSSRU/AuthenSSRU/RegisterViewController.swift"
-                  timestampString = "574766458.072668"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "11"
-                  endingLineNumber = "11"
-                  offsetFromSymbolStart = "144">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AuthenSSRU.RegisterViewController.__deallocating_deinit"
-                  moduleName = "AuthenSSRU"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/student23/Desktop/MyProject/AuthenSSRU/AuthenSSRU/RegisterViewController.swift"
-                  timestampString = "574766458.0753649"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "16">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
